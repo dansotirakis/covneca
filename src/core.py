@@ -1,5 +1,4 @@
 # coding: utf-8
-# vitorgamer58
 from telegram.ext import CommandHandler, Filters, MessageHandler, Updater
 from conf.settings import TELEGRAM_TOKEN
 import logging
